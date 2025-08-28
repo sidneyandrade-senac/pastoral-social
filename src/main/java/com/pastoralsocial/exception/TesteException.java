@@ -1,4 +1,4 @@
-package com.pastoral_social.exception;
+package com.pastoralsocial.exception;
 
 public class TesteException {
     

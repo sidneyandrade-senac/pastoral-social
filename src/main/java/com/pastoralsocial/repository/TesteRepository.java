@@ -1,6 +1,6 @@
-package com.pastoral_social.repository;
+package com.pastoralsocial.repository;
 
-import com.pastoral_social.entity.Teste;
+import com.pastoralsocial.entity.Teste;
 
 public class TesteRepository {
 

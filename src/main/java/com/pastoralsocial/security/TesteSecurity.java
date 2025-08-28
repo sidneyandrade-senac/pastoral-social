@@ -1,4 +1,4 @@
-package com.pastoral_social.security;
+package com.pastoralsocial.security;
 
 public class TesteSecurity {
     public boolean teste() {

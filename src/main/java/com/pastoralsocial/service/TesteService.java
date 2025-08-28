@@ -1,13 +1,13 @@
-package com.pastoral_social.service;
+package com.pastoralsocial.service;
 
 import org.springframework.stereotype.Service;
 
-import com.pastoral_social.dto.TesteDTO;
-import com.pastoral_social.exception.TesteException;
-import com.pastoral_social.mapper.TesteMapper;
-import com.pastoral_social.repository.TesteRepository;
-import com.pastoral_social.security.TesteSecurity;
-import com.pastoral_social.util.TesteUtil;
+import com.pastoralsocial.dto.TesteDTO;
+import com.pastoralsocial.exception.TesteException;
+import com.pastoralsocial.mapper.TesteMapper;
+import com.pastoralsocial.repository.TesteRepository;
+import com.pastoralsocial.security.TesteSecurity;
+import com.pastoralsocial.util.TesteUtil;
 
 @Service
 public class TesteService {

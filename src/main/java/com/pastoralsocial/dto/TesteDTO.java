@@ -1,4 +1,4 @@
-package com.pastoral_social.dto;
+package com.pastoralsocial.dto;
 
 public class TesteDTO {
     private String nome;

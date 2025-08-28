@@ -1,4 +1,4 @@
-package com.pastoral_social.util;
+package com.pastoralsocial.util;
 
 public class TesteUtil {
 

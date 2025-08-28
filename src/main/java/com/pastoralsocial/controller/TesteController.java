@@ -1,10 +1,10 @@
-package com.pastoral_social.controller;
+package com.pastoralsocial.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.pastoral_social.dto.TesteDTO;
-import com.pastoral_social.service.TesteService;
+import com.pastoralsocial.dto.TesteDTO;
+import com.pastoralsocial.service.TesteService;
 
 @RestController
 @RequestMapping("/api/teste")

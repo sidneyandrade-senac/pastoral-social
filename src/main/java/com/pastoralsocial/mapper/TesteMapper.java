@@ -1,7 +1,7 @@
-package com.pastoral_social.mapper;
+package com.pastoralsocial.mapper;
 
-import com.pastoral_social.dto.TesteDTO;
-import com.pastoral_social.entity.Teste;
+import com.pastoralsocial.dto.TesteDTO;
+import com.pastoralsocial.entity.Teste;
 
 public class TesteMapper {
 

@@ -1,4 +1,4 @@
-package com.pastoral_social.entity;
+package com.pastoralsocial.entity;
 
 public class Teste {
     private String nome;
